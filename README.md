@@ -1,2 +1,2 @@
 # ozon-ad-blocker
-Блокировщик рекламы на OZON
+Блокировщик рекламы на OZON для Tampermonkey
